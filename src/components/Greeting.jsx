@@ -1,7 +1,5 @@
 //Task 1 - Create a New Component
-
-import react from 'react';
-
+import React from 'react';
 function Greeting() {
     return (
         <div>
